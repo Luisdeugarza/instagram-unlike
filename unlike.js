@@ -97,5 +97,5 @@ const removeLikes = async () => {
 (async () => {
     console.log("🚀 Starting Instagram Unlike Script...");
     await removeLikes();
-    console.log("✅ Finished unliking all visible posts.");
+    console.log("✅ Finished unliking all possible posts.");
 })();
