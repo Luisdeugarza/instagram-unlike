@@ -1,3 +1,6 @@
+
+![JShine](https://github.com/user-attachments/assets/eda2e40c-17e2-4763-b53d-1224e2e1cb34)
+
 # Instagram Mass Unlike Script
 
 A browser-based automation script to bulk-unlike posts (reels, photos) from your Instagram Likes activity page.  
@@ -55,4 +58,4 @@ const DELAY_BETWEEN_CHECKBOX_CLICKS_MS = 100;
 
 ## License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
